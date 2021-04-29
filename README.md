@@ -9,6 +9,6 @@ and a dialog is shown with three options:
   3. **Send via another** - open app chooser with apps that can perform sending operation.
 
 Also, there is a button that opens a screen where one can view last 10 captured barcodes.
-If the camera is active and no barcode is captured during 20 minutes, a dialog is shown with option to leave the app.
+If the camera is active and no barcode is captured during 20 minutes, a dialog is shown with an option to leave the app.
 
-The repository also contains ready-to-install apk file *ready_app.apk*
+The repository also contains ready-to-install apk file *ready_app.apk*.
